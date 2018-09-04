@@ -1,0 +1,22 @@
+.container {
+	background-color: beige;
+}
+
+main {
+	width: 1600px;
+	display: inline-block;
+}
+
+main .logo {
+	margin: 10px 100px;
+}
+
+header,
+footer {
+	background-color: grey;
+	min-width: 500px;
+}
+
+.navigation li {
+	display: inline-block;
+}
